@@ -1,0 +1,19 @@
+# Compiled binary
+P1
+
+# Runtime data files
+Form.txt
+
+# Object files
+*.o
+
+# Log files
+*.log
+
+# macOS metadata
+.DS_Store
+
+# Editor backup files
+*~
+*.swp
+*.swo
