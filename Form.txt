@@ -1,0 +1,11 @@
+type=LS
+name=234
+nif=g
+topic=GENERAL
+amount=234.00
+opening=2022-11-03 17:12:44
+start=2022-11-03 17:12:46
+total=242.19
+end=2022-11-03 17:12:50
+closure=2022-11-03 17:12:50
+signature=The chief
